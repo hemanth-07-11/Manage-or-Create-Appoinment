@@ -3,7 +3,7 @@ This is a basic application where you can add contacts and fix appointments for 
 
 ## Concepts learnt while building the same
 
-JSX,usestate hook, basics of Component life cycles and basics of the rendering were learnt and practiced with this project.  
+JSX,usestate hook, basics of Component life cycles and basics of the rendering, redirecting were also learnt and practiced with this project.  
 
 # Getting Started with Create React App
 
